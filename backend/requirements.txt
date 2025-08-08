@@ -1,0 +1,2 @@
+openai-whisper
+ffmpeg  # optional note — must be installed on system
